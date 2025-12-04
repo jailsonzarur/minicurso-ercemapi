@@ -30,8 +30,8 @@ pip3 --version
 
 ```bash
 # Criar pasta do projeto
-mkdir crm-agentes
-cd crm-agentes
+mkdir agentes
+cd agentes
 
 # Criar ambiente virtual
 python3 -m venv venv
